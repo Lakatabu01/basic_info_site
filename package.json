@@ -1,0 +1,15 @@
+{
+  "name": "basic_info_site",
+  "version": "1.0.0",
+  "description": "info site with four pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"  },
+  "author": "Lanre",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.1"
+  }
+}
